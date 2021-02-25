@@ -1,0 +1,16 @@
+PODS:
+  - ArticleManager (0.1.0)
+
+DEPENDENCIES:
+  - ArticleManager (from `../`)
+
+EXTERNAL SOURCES:
+  ArticleManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ArticleManager: 1cc8c7c287390c4d7301bf93ef061e02a1d67a28
+
+PODFILE CHECKSUM: 2c008f58fa57dfa19892957bdc65c4a81fb9065c
+
+COCOAPODS: 1.10.1

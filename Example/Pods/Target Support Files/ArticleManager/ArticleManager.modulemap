@@ -1,0 +1,6 @@
+framework module ArticleManager {
+  umbrella header "ArticleManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

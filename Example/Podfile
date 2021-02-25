@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ArticleManager_Example' do
+  pod 'ArticleManager', :path => '../'
+
+  target 'ArticleManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
